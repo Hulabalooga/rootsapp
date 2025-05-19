@@ -1,0 +1,49 @@
+#Notes for shit i actually learn while developing
+THIS FILE IS .GITIGNORED
+Also make sure to actually save the fucking file 
+
+
+---------------------------------- NOTES FOR NEXT SESSION HERE ----------------------------------
+
+
+
+
+
+
+
+
+
+---------------------------------- NOTES FOR NEXT SESSION ABOVE ---------------------------------
+
+
+
+
+-------------------------------------  GENERAL NOTES BELOW  -------------------------------------
+//File structure
+GPT recommended file structure: 
+
+localspace-app/
+├── backend/
+│   ├── api_server.py
+│   ├── places_lookup.py
+│   ├── utils.py
+│   └── .env
+├── frontend/
+│   └── (React or Web App Files)
+├── tests/
+│   └── test_places_lookup.py
+├── .gitignore
+├── README.md
+└── venv/
+
+//Python Technical Stuff
+
+//Github related 
+
+//Misc
+
+//API Stuff
+
+//Good/Bad Habits
+
+// 
